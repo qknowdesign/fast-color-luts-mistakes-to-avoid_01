@@ -1,9 +1,9 @@
 <h1> SPARK AR from Lightroom Presets to LUT</h1>
 
+<a href="https://youtu.be/9xM1rbc4y-E" alt="QKnow Design SPARK AR from Lightroom Presets to LUT"> <img src="qknow-design_fast_color_luts_mistakes_to_avoid.jpg"/> </a> 
+
 Tutorial on YouTube 
 <a href="https://youtu.be/9xM1rbc4y-E">SPARK AR from Lightroom Presets to LUT (Avoid these Mistakes)</a>
-
-<a href="https://youtu.be/9xM1rbc4y-E" alt="QKnow Design SPARK AR from Lightroom Presets to LUT"> <img src="qknow-design_fast_color_luts_mistakes_to_avoid.jpg"/> </a> 
 
 Learn more stuff by watching my <a href="https://www.youtube.com/channel/UC_ycBf44SNpOc7w6kvYkufA?view_as=subscriber">Spark AR Tutorials on YouTube</a>!
 
